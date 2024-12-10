@@ -7,5 +7,5 @@ I am Woo Yan Seun from Singapore. I have a Diploma in AI and Analytics from Sing
 Project Link: https://devpost.com/software/tabby-y9q0o7<br>
 Demo Video: https://youtu.be/QF6tdO2h5do<br>
 <br>
-3. American Sign Language (ASL) RPG<br>
+2. American Sign Language (ASL) RPG<br>
 Demo Video: https://youtu.be/Oft9slQaebA
